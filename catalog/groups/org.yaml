@@ -21,12 +21,12 @@ metadata:
   name: org-portefaix
   description: The Portefaix organization
   links:
-  - url: http://www.portefaix.io
+  - url: http://www.portefaix.xyz
     title: Website
 spec:
   type: organization
   profile:
     displayName: Portefaix
-    email: admin@portefaix.io
+    email: admin@portefaix.xyz
     # picture: https://avatars.dicebear.com/api/identicon/info@example.com.svg?background=%23fff&margin=25
   children: [bu-engineering]
