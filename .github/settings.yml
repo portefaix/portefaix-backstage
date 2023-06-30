@@ -22,7 +22,7 @@ _extends: .github:.github/settings.yml
 repository:
   name: "portefaix-backstage"
   description: "Portefaix Backstage"
-  topics: portefaix, kubernetes, terraform
+  topics: portefaix, backstage, service-catalog
 
 labels:
 
