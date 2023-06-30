@@ -1,0 +1,9 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: continuous-delivery
+  description: The Continuous Delivery toolchain
+spec:
+  owner: team-infra
+  domain: tools

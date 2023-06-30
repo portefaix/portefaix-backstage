@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: groups
+  description: A collection of all groups
+spec:
+  targets:
+  - ./groups/org.yaml
+  - ./groups/bu-groups.yaml
+  - ./groups/team-groups.yaml
+
+  

@@ -1,0 +1,9 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: observability
+  description: The Observability stack
+spec:
+  owner: team-infra
+  domain: sre

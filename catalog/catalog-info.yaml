@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: core
+  description: Backstage resources for Portefaix
+  # annotations:
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  targets:
+    # - ./apis.yaml
+    - ./groups.yaml
+    # - ./resources.yaml
+    - ./components.yaml
+    - ./domains.yaml
+    - ./systems.yaml
+    # - ./templates.yaml

@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: sre
+  title: SRE
+  description: Site Reliability Engineering domain containing all monitoring applications, Service Catalog etc.
+  links: []
+spec:
+  owner: group:team-infra

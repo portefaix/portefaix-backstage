@@ -1,0 +1,16 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: org-portefaix
+  description: The Portefaix organization
+  links:
+    - url: http://www.portefaix.io
+      title: Website
+spec:
+  type: organization
+  profile:
+    displayName: Portefaix
+    email: admin@portefaix.io
+    # picture: https://avatars.dicebear.com/api/identicon/info@example.com.svg?background=%23fff&margin=25
+  children: [bu-engineering]

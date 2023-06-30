@@ -1,0 +1,28 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-infra
+  description: The Infra team
+spec:
+  type: team
+  profile:
+    displayName: Infra
+    email: infra@portefaix.xyz
+    # picture: https://avatars.dicebear.com/api/identicon/backstage@example.com.svg?background=%23fff&margin=25
+  parent: bu-engineering
+  children: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-payment
+  description: The Development team
+spec:
+  type: team
+  profile:
+    displayName: Development
+    email: dev@portefaix.xyz
+    # picture: https://avatars.dicebear.com/api/identicon/backstage@example.com.svg?background=%23fff&margin=25
+  parent: bu-engineering
+  children: []
