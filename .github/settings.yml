@@ -116,20 +116,8 @@ labels:
 
 ## AREA
 
-- name: "area/kubernetes"
-  description: "Kubernetes"
-  color: "cc317c"
-
-- name: "area/terraform"
-  description: "Terraform"
-  color: "cc317c"
-
-- name: "area/inspec"
-  description: "Inspec"
-  color: "cc317c"
-
-- name: "area/ansible"
-  description: "Ansible"
+- name: "area/backstage"
+  description: "Backstage"
   color: "cc317c"
 
 - name: "area/github"
