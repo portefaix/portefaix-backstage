@@ -27,7 +27,7 @@ spec:
   # - ./apis.yaml
   - ./groups.yaml
   # - ./resources.yaml
-  - ./components.yaml
+  # - ./components.yaml
   - ./domains.yaml
   - ./systems.yaml
   # - ./templates.yaml
