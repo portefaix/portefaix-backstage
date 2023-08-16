@@ -23,4 +23,4 @@ metadata:
   description: Software Catalog of our platform
 spec:
   owner: team-infra
-  domain: tools
+  domain: platform

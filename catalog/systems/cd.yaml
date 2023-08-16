@@ -23,4 +23,4 @@ metadata:
   description: The Continuous Delivery toolchain
 spec:
   owner: team-infra
-  domain: tools
+  domain: sre
