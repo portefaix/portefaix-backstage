@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: software-catalog
+  namespace: portefaix
   description: Software Catalog of our platform
 spec:
   owner: team-infra

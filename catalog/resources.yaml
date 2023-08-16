@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: resources
+  namespace: portefaix
   description: A collection of all resources
 spec:
   targets:

@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
   name: tools
+  namespace: portefaix
   description: Everything related to tools
   title: Tools
   # links:

@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: observability
+  namespace: portefaix
   description: The Observability stack
 spec:
   owner: team-infra

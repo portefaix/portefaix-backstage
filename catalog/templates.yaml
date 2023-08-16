@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: templates
+  namespace: portefaix
   description: A collection of all templates
 spec:
   targets:

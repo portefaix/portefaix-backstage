@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: bu-engineering
+  namespace: portefaix
   description: The Engineering business unit
 spec:
   type: business-unit

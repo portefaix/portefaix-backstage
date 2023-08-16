@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: org-portefaix
+  namespace: portefaix
   description: The Portefaix organization
   links:
   - url: http://www.portefaix.xyz
