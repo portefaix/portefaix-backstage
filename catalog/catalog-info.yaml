@@ -28,7 +28,6 @@ spec:
   - ./groups.yaml
   - ./domains.yaml
   - ./systems.yaml
-  - ./apps.yaml
   # - ./templates.yaml
   - https://github.com/portefaix/portefaix-kubernetes/tree/master/catalog/catalog-info.yaml
   - https://github.com/portefaix/portefaix-infrastructure/tree/master/catalog/catalog-info.yaml
