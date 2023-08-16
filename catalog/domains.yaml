@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: domains
+  namespace: portefaix
   description: A collection of all domains
 spec:
   targets:

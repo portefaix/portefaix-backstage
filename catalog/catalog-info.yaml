@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: core
+  namespace: portefaix
   description: Backstage resources for Portefaix
   # annotations:
   #   backstage.io/techdocs-ref: dir:.

@@ -19,6 +19,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: team-infra
+  namespace: portefaix
   description: The Infra team
 spec:
   type: team
