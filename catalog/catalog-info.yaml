@@ -25,10 +25,10 @@ metadata:
   #   backstage.io/techdocs-ref: dir:.
 spec:
   targets:
-  # - ./apis.yaml
   - ./groups.yaml
-  # - ./resources.yaml
-  # - ./components.yaml
   - ./domains.yaml
   - ./systems.yaml
+  - ./apps.yaml
   # - ./templates.yaml
+  - https://github.com/portefaix/portefaix-kubernetes/tree/master/catalog/catalog-info.yaml
+  - https://github.com/portefaix/portefaix-infrastructure/tree/master/catalog/catalog-info.yaml

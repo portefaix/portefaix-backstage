@@ -25,3 +25,4 @@ spec:
   targets:
   - ./domains/tools.yaml
   - ./domains/sre.yaml
+  - ./domains/platform.yaml

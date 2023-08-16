@@ -21,7 +21,7 @@ metadata:
   name: sre
   namespace: portefaix
   title: SRE
-  description: Site Reliability Engineering domain containing all monitoring applications, Service Catalog etc.
+  description: Site Reliability Engineering domain containing all Observability applications, Service Catalog etc.
   links: []
 spec:
   owner: group:team-infra

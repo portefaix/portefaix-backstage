@@ -16,10 +16,12 @@
 
 ---
 apiVersion: backstage.io/v1alpha1
-kind: Location
+kind: Domain
 metadata:
-  name: resources
+  name: platform
   namespace: portefaix
-  description: A collection of all resources
+  title: Platform
+  description: Platform domain contains all necessary components to enable infrastructure to users
+  links: []
 spec:
-  targets:
+  owner: group:team-infra
